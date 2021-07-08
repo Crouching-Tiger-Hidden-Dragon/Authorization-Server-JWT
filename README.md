@@ -1,11 +1,11 @@
 ﻿# Oauth2-Jwt Server
  
 # Build 
-## mvn clean install
+### mvn clean install
 ## Then you can find authorization-server-jwt-0.0.1-SNAPSHOT.jar file that is in ../target folder.
 
 # Run command
-## java -jar target/authorization-server-jwt-0.0.1-SNAPSHOT.jar --server.port=80 
+### java -jar target/authorization-server-jwt-0.0.1-SNAPSHOT.jar --server.port=80 
 
 # Get Token using username and password example:
 
