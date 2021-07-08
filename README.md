@@ -1,4 +1,4 @@
-﻿# Oauth2-jwt
+﻿# Oauth2-Jwt Server
  
 # Build 
 ## mvn clean install
