@@ -19,3 +19,6 @@
 ## Resourse Sever: 
 
 ![alt text](https://github.com/Crouching-Tiger-Hidden-Dragon/Authorization-Server-JWT/blob/master/images/Resource-server.png?raw=true)
+
+## Using symmetric Key 
+![alt text](https://github.com/Crouching-Tiger-Hidden-Dragon/Authorization-Server-JWT/blob/master/images/Oauth2-symmetric-key.png?raw=true)
