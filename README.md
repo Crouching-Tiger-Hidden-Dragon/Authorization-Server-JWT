@@ -16,7 +16,7 @@
 
 ![alt text](https://github.com/Crouching-Tiger-Hidden-Dragon/Authorization-Server-JWT/blob/master/images/postman-Oauth-authenticate-demo.png?raw=true)
 
-## Resourse Sever: 
+## Resource Sever: 
 
 ![alt text](https://github.com/Crouching-Tiger-Hidden-Dragon/Authorization-Server-JWT/blob/master/images/Resource-server.png?raw=true)
 
