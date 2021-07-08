@@ -1,7 +1,7 @@
 ﻿# Oauth2-Jwt Server
  
 # Build 
-### mvn clean install
+> ### mvn clean install
 ## Then you can find authorization-server-jwt-0.0.1-SNAPSHOT.jar file that is in ../target folder.
 
 # Run command
