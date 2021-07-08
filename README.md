@@ -7,7 +7,7 @@
 # Run command
 > ### java -jar target/authorization-server-jwt-0.0.1-SNAPSHOT.jar --server.port=80 
 
-# Postman example: get Token using username and password
+# Postman example: get Tokens using username and password
 > ### key-> Authorization value-> Basic Y2xpZW50OnNlY3JldA==
 ![alt text](https://github.com/Crouching-Tiger-Hidden-Dragon/Authorization-Server-JWT/blob/master/images/add-header.png?raw=true)
 
